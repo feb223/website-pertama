@@ -1,0 +1,73 @@
+body{padding: 0;margin: 0;
+	background-image:url('../img/KIRITO.gif') ;
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+}
+h1{
+
+	text-align:center; 
+}
+nav{
+	background-color: black;
+
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.li{ float: left;
+	color: white;
+
+}
+li a{
+	padding: 16px;
+	color: white;
+	display: block;
+	text-decoration: none;
+	font-weight: bold;
+	}
+li a:hover{
+	color: rgb(247, 17, 17);
+	background-color:rgb(221, 21, 178);
+	border-radius:20px;
+}
+.tema{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+}
+.char{
+	font-family:times Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 2em;
+	}
+.pfooter{
+	background-color: black;
+	background-size:15px; 
+	color: white
+}
+li{
+font-family:cursive;
+font-weight: bold;
+color:blue;
+}
+.i{
+
+	font-weight: bold;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.tengah{
+	text-align: center;
+	font-family:cursive;
+}
+
+
+
+
+
+
